@@ -13,7 +13,7 @@ CREATE TABLE products (
 
 INSERT INTO categories(id,name) VALUES
 (1,'Fruit'),
-(2,'Bakery'),
+(2,'Bakery'), 
 (3,'Dry Goods'),
 (4,'Vegatable');
 
